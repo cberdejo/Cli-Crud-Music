@@ -2,3 +2,4 @@ sqlmodel
 pymysql
 cryptography
 python-dotenv
+streamlit
